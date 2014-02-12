@@ -7,3 +7,5 @@ At the project directory run:
 `mvn install`
 
 `mvn exec:java -Dexec.mainClass="br.cassio.life.GameOfLife"`
+
+![Screenshot](screenshot.png)
