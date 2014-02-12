@@ -6,4 +6,4 @@ At the project directory run:
 
 `mvn install`
 
-`mvn exec:java -DmainClass="br.cassio.life.GameOfLife"`
+`mvn exec:java -Dexec.mainClass="br.cassio.life.GameOfLife"`
